@@ -21,5 +21,11 @@
   <a href="https://www.linkedin.com/in/giuseppy-castelani-84b814268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/thesonicbarti/thesonicbarti/blob/output/github-contribution-grid-snake.svg)
+   
+</span>
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/123640886/224485211-6fa23429-8fce-4ec1-be15-e0ee8003a31e.jpg" width="700px" />
+</div>
 </div>
