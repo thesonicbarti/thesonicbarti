@@ -26,6 +26,6 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/123640886/224485211-6fa23429-8fce-4ec1-be15-e0ee8003a31e.jpg" width="700px" />
+<img src="https://user-images.githubusercontent.com/123640886/224572708-4d551e28-0d86-4172-bc0d-8ab5e65ff5a1.png" width="350px" />
 </div>
 </div>
